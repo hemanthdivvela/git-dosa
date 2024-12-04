@@ -1,6 +1,2 @@
 dosa
 2 eggs
-oil
-karam
-chicken 250 grms
-add alu
